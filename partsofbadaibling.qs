@@ -1,121 +1,121 @@
 CREATE
 LAST	Lde	Abel
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Adlfurt
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Fachendorf
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Gröben
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Haslach
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Heimathsberg
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Heinrichsdorf
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Holzhausen
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Köckbrunn
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Markfeld
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Mitterham
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 Moos
 CREATE
 LAST	Lde	Natternberg
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Thalacker
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Unterheufeld
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Weg
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Westen
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Westerham
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Willingerau
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Wilpasing
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
 CREATE
 LAST	Lde	Zell
-LAST	Lde	Ortsteil von Miesbach
+LAST	Lde	Ortsteil von Bad Aibling
 LAST	P31	Q253019
 LAST	P17	Q183
 LAST	P131	Q5758
